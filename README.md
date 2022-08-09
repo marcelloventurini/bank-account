@@ -1,18 +1,10 @@
-## Getting Started
+Projeto criado como resposta a um desafio do curso Java Completo - Udemy / Nelio Alves.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A ideia basica do desafio era criar um programa para realizar o cadastro de uma conta bancária, informando um número de conta, o nome do titular e, opcionalmente, um valor de depósito inicial.
 
-## Folder Structure
+Por fim, era preciso realizar um depósito e um saque, seguindo as regras impostas pelo desafio, e sempre mostrar os dados da conta após cada operação.
 
-The workspace contains two folders by default, where:
+Nele pude praticar conceitos como construtores, sobrecarca e encapsulamento, além da própria organização do projeto.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+p.s: para testar o programa é necessário ter a JVM instalada.
