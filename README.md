@@ -5,6 +5,3 @@ A ideia basica do desafio era criar um programa para realizar o cadastro de uma 
 Por fim, era preciso realizar um depósito e um saque, seguindo as regras impostas pelo desafio, e sempre mostrar os dados da conta após cada operação.
 
 Nele pude praticar conceitos como construtores, sobrecarca e encapsulamento, além da própria organização do projeto.
-
-
-p.s: para testar o programa é necessário ter a JVM instalada.
